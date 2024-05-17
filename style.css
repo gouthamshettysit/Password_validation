@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    align-content: center;
+    margin-top: 18%;
+}
+input[type=password]{
+    border: 2px solid black;
+    justify-content: center;
+    
+}
+input[type=submit]{
+    background-color: rgb(31, 24, 232);
+    color: white;
+    border-color: transparent;
+    width: 170px;
+    border-radius: 5px;
+}
+input[type=submit]:hover{
+    background-color: rgb(106, 92, 92);
+    color: rgb(241, 239, 239);
+}
